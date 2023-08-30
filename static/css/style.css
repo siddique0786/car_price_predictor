@@ -1,0 +1,28 @@
+.{
+   margin:0;
+   padding:0;
+   box-sizing:border-box;
+}
+
+.bg-dark{
+
+    background-color:#75797B;
+
+}
+
+.mt-50{
+   margin-top:50px;
+
+}
+.card-header{
+margin-top:20px;
+
+}
+
+.predict_level{
+margin-top:10px;
+}
+
+.predict_select{
+margin-top:10px;
+}
